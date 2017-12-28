@@ -1,5 +1,10 @@
-# Bootstrap 3 Date/Time Picker v4.17.47
+# Bootstrap 4 Date/Time Picker based on [Bootstrap 3 Date/Time Picker v4.17.47](https://github.com/Eonasdan/bootstrap-datetimepicker)
 
-We are in code freeze and this issue tracker is no longer actively monitored. I'll be closing PR that do not contribute emergency fixes and leaving some open as they are evaluated for migration into the new repo. I’ll be closing issues that do not meet minimum requirements or have been answered by the community. Issues that have been closed for longer than 30 days will be locked.
+Working bootstrap 4 version of the convenient date/time picker.
+####Dependencies:
+  1. [jQuery](https://jquery.com/)
+  2. [Bootstrap 4](http://getbootstrap.com/)
+  3. [Moment.js](http://momentjs.com/)
+  4. [Font Awesome](http://fontawesome.io/icons/)
 
 ## [View the manual and demos](http://eonasdan.github.io/bootstrap-datetimepicker/)
