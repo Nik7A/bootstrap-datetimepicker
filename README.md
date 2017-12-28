@@ -1,4 +1,4 @@
-# Bootstrap 4 Date/Time Picker based on [Bootstrap 3 Date/Time Picker v4.17.47](https://github.com/Eonasdan/bootstrap-datetimepicker)
+## Bootstrap 4 Date/Time Picker based on [Bootstrap 3 Date/Time Picker v4.17.47](https://github.com/Eonasdan/bootstrap-datetimepicker)
 
 Working bootstrap 4 version of the convenient date/time picker.
 #### Dependencies:

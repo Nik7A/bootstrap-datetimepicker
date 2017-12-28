@@ -1,8 +1,9 @@
-docs/*
-src/*
+docs
+src
 bower_components
 node_modules
-build/*
+build/css/*
+build/js/*
 !build/js/bootstrap-datetimepicker.min.js
 !build/css/bootstrap-datetimepicker.min.css
 .idea
